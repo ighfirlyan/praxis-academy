@@ -1,0 +1,403 @@
+1.
+
+Microsoft Windows [Version 10.0.18362.476]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\van_k>e:
+
+E:\>
+
+
+2.
+
+Microsoft Windows [Version 10.0.18362.476]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\van_k>e:
+
+E:\>cd Romadhona
+
+E:\Romadhona>
+
+
+3. 
+
+E:\Romadhona>assoc.txt
+.txt=txtfile
+
+
+4.
+
+E:\Romadhona>attrib /s /d
+A                    E:\Romadhona\File Java\halo.class
+A                    E:\Romadhona\File Java\halo.java
+A                    E:\Romadhona\File Java\halo.txt
+A                    E:\Romadhona\File Java - Copy\ganti nama.txt
+A                    E:\Romadhona\File Java - Copy\halo.class
+A                    E:\Romadhona\File Java - Copy\halo.java
+A                    E:\Romadhona\File Java - Copy\halo.txt
+A                    E:\Romadhona\Kemampuan dasar 1\kasus\cari java.bat
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\coba 20 cmd.txt
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\FirstISEScript.ps1
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\FirstScript.ps1
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\Get-LastBootTime.ps1
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\Latihan perintah CMD.txt
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\MyScript.bat
+A                    E:\Romadhona\Kemampuan dasar 1\latihan\MyScript.ps1
+                     E:\Romadhona\Kemampuan dasar 1\kasus
+                     E:\Romadhona\Kemampuan dasar 1\latihan
+                     E:\Romadhona\File Java
+                     E:\Romadhona\File Java - Copy
+A                    E:\Romadhona\file-ren.bat
+                     E:\Romadhona\Ga ada File Java
+A                    E:\Romadhona\ganti nama.bat
+A                    E:\Romadhona\gantiNama.txt
+A                    E:\Romadhona\Hobi.bat
+                     E:\Romadhona\Kemampuan dasar 1
+A                    E:\Romadhona\Kemampuan Dasar.rar
+A                    E:\Romadhona\last boot up time.ps1
+A                    E:\Romadhona\Untitled2.ps1
+
+
+5.
+
+E:\Romadhona>attrib /?
+Displays or changes file attributes.
+
+ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [+O | -O] [+I | -I] [+X | -X] [+P | -P] [+U | -U]
+       [drive:][path][filename] [/S [/D]] [/L]
+
+  +   Sets an attribute.
+  -   Clears an attribute.
+  R   Read-only file attribute.
+  A   Archive file attribute.
+  S   System file attribute.
+  H   Hidden file attribute.
+  O   Offline attribute.
+  I   Not content indexed file attribute.
+  X   No scrub file attribute.
+  V   Integrity attribute.
+  P   Pinned attribute.
+  U   Unpinned attribute.
+  B   SMR Blob attribute.
+  [drive:][path][filename]
+      Specifies a file or files for attrib to process.
+  /S  Processes matching files in the current folder
+      and all subfolders.
+  /D  Processes folders as well.
+  /L  Work on the attributes of the Symbolic Link versus
+      the target of the Symbolic Link
+
+
+6.
+
+E:\Romadhona>date /t
+29/12/2019
+
+
+7.
+
+E:\Romadhona>dir
+ Volume in drive E is DATA
+ Volume Serial Number is EC63-0239
+
+ Directory of E:\Romadhona
+
+29/12/2019  08:13    <DIR>          .
+29/12/2019  08:13    <DIR>          ..
+28/12/2019  17:49    <DIR>          File Java
+28/12/2019  21:39    <DIR>          File Java - Copy
+29/12/2019  03:20               393 file-ren.bat
+28/12/2019  20:58    <DIR>          Ga ada File Java
+29/12/2019  08:11                41 ganti nama.bat
+28/12/2019  21:40                63 gantiNama.txt
+29/12/2019  00:17                46 Hobi.bat
+29/12/2019  02:11    <DIR>          Kemampuan dasar 1
+28/12/2019  00:58           120.111 Kemampuan Dasar.rar
+28/12/2019  01:54               120 last boot up time.ps1
+28/12/2019  01:53               120 Untitled2.ps1
+               7 File(s)        120.894 bytes
+               6 Dir(s)  25.892.040.704 bytes free
+
+
+8.
+
+E:\Romadhona>echo Hello World!
+Hello World!
+
+
+9.
+
+E:\Romadhona>hostname
+DESKTOP-1LKBK87
+
+
+10.
+
+E:\Romadhona>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::d83d:119:7f4:df20%8
+   IPv4 Address. . . . . . . . . . . : 192.168.20.246
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.20.1
+
+
+11.
+
+E:\Romadhona>ver
+
+Microsoft Windows [Version 10.0.18362.476]
+
+
+12.
+
+E:\Romadhona>choice /c ync /m "Yes, No, or Continue"
+Yes, No, or Continue [Y,N,C]?
+
+
+13.
+
+E:\Romadhona>systeminfo
+
+Host Name:                 DESKTOP-1LKBK87
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          van_knight@live.com
+Registered Organization:
+Product ID:                00331-10000-00001-AA010
+Original Install Date:     26/09/2019, 10:11:32
+System Boot Time:          29/12/2019, 15:41:23
+System Manufacturer:       Hewlett-Packard
+System Model:              HP 14 Notebook PC
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~1300 Mhz
+BIOS Version:              Insyde F.18, 21/05/2014
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     4.028 MB
+Available Physical Memory: 1.228 MB
+Virtual Memory: Max Size:  6.588 MB
+Virtual Memory: Available: 3.123 MB
+Virtual Memory: In Use:    3.465 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-1LKBK87
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4533002
+                           [02]: KB4515383
+                           [03]: KB4516115
+                           [04]: KB4521863
+                           [05]: KB4524569
+                           [06]: KB4524570
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Ralink RT3290 802.11bgn Wi-Fi Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.20.1
+                                 IP address(es)
+                                 [01]: 192.168.20.246
+                                 [02]: fe80::d83d:119:7f4:df20
+                           [02]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+14.
+
+E:\Romadhona>tree e:\Romadhona
+Folder PATH listing for volume DATA
+Volume serial number is EC63-0239
+E:\ROMADHONA
+├───File Java
+├───File Java - Copy
+├───Ga ada File Java
+└───Kemampuan dasar 1
+    ├───kasus
+    └───latihan
+
+
+15.
+
+E:\Romadhona>comp /?
+Compares the contents of two files or sets of files.
+
+COMP [data1] [data2] [/D] [/A] [/L] [/N=number] [/C] [/OFF[LINE]] [/M]
+
+  data1      Specifies location and name(s) of first file(s) to compare.
+  data2      Specifies location and name(s) of second files to compare.
+  /D         Displays differences in decimal format.
+  /A         Displays differences in ASCII characters.
+  /L         Displays line numbers for differences.
+  /N=number  Compares only the first specified number of lines in each file.
+  /C         Disregards case of ASCII letters when comparing files.
+  /OFF[LINE] Do not skip files with offline attribute set.
+  /M         Do not prompt for compare more files.
+
+To compare sets of files, use wildcards in data1 and data2 p
+
+
+16.
+
+E:\Romadhona>whoami
+desktop-1lkbk87\ighfirlyan
+
+
+17.
+
+E:\Romadhona>where /r e:\Romadhona\ *.java
+e:\Romadhona\File Java\halo.java
+e:\Romadhona\File Java - Copy\halo.java
+
+
+18.
+
+E:\Romadhona>vol e:
+ Volume in drive E is DATA
+ Volume Serial Number is EC63-0239
+
+
+19.
+
+E:\Romadhona>type gantiNama.txt
+@echo OFF
+:: To rename x.php to y.php
+REN dir *.txt dir *.txt
+
+20.
+
+E:\Romadhona>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.

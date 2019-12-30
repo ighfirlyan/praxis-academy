@@ -1,0 +1,13 @@
+RUANG LINGKUP PENGEMBANGAN SOFTWARE
+
+1. Teknologi informasi adalah salah satu istilah dalam pengoperasian komputer untuk mempermudah manusia dalam mengolah informasi. Teknologi informasi berperan hampir di seluruh sektor kehidupan manusia, mulai dari kedokteran, ekonomi, bisnis, seni, hingga politik. Maka dari itu nantinya akan banyak sektor kehidupan manusia yang akan terdisrupsi akibat berkembangnya teknologi informasi ini sehingga kebutuhan untuk mempelajari teknologi informasi semakin penting
+	
+2. Perbedaan ilmu komputer dengan informatika menurut laman stackechange.com adalah informatika memiliki cabang ilmu lebih luas yang digunakan untuk merekayasa sistem informasi dengan pengembangan ilmu untuk matematika dan statistika maupun ilmu komputer itu sendiri sehingga dapat pula disebut teknik informatika. Sedangkan ilmu komputer adalah salah satu cabang dari informatika ilmu komputer lebih fokus untuk mempelajari teori. Sebenarnya di beberapa negara ilmu komputer dan informatika adalah hal yang sama yang hanya berbeda istilah, adapun yang kurikulum dipelajari sebenarnya tidak terlalu berbeda.
+
+3. Pengembangan perangkat lunak adalah suatu proses mengelola perancangan dan pemeliharaan suatu perangkat lunak dengan menyusun metode agar perangkat lunak tersebut dapat berkembang dan menyesuaikan kebutuhan pengguna. Umumnya pengembangan perangkat lunak ini diaplikasikan untuk ilmu rekayasa perangkat lunak.
+
+4. Agile Software Development adalah suatu istilah metode untuk mengembangkan perangkat lunak. Istilah Agile sendiri digunakan karena metode tersebut harus bersifat cepat, ringan, bebas bergerak, dan waspada. Terdapat empat nilai pada Agile development methods yang sering disebut dengan agile manifesto yaitu: Interaksi dan personel lebih penting daripada proses dan alat; Perangkat lunak yang berfungsi lebih penting daripada dokumentasi yang lengkap; Kolaborasi dengan klien lebih penting daripada negosiasi kontrak; Respon terhadap perubahan lebih penting daripada mengikuti rencana.
+
+5. Scrum adalah salah satu metode pendekatan Agile Software Development yang dikembangkan oleh Jeff Sutherland dan timnya. Prinsip yang digunakan scrum sejalan dengan manifeso agile dengan menggabungkan proses yang meliputi kebutuhan, analisis, desain, evolusi, dan pengiriman dalam suatu kerangka kerja
+
+6. Extreme programming (XP) adalah salah satu metode pendekatan Agile Software Development. Adapun nilai nilai yang digunakan oleh Extreme Programming adalah: communication, simplicity, feedback, courage, respect. Proses pengembangan perangkat lunak dengan metode Extreme Programming menggunakan pendekatan berorientasi objek sebagai metode dalam kerangka kerja yang meliputi: planning, design, coding, dan testing
